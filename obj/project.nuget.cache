@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Fcge+4PIHufTVZ8deJzFlV2MZ+pVrq+fkfwH+uAsKaG8lkgLSBSd1GdbQ8qyxALIC2IKOGIjEw0ceXFlsOqUQ==",
+  "success": true,
+  "projectFilePath": "/Users/jeremyevans/development/MonoGameMastery/MonoGameMastery.csproj",
+  "expectedPackageFiles": [
+    "/Users/jeremyevans/.nuget/packages/monogame.content.builder.task/3.8.1.303/monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "/Users/jeremyevans/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/Users/jeremyevans/.nuget/packages/microsoft.netcore.app.ref/6.0.18/microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "/Users/jeremyevans/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.18/microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "/Users/jeremyevans/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.18/microsoft.netcore.app.host.osx-arm64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
